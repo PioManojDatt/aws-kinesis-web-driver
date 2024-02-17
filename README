@@ -1,0 +1,11 @@
+# Setup AWS Kinesis Webrtc view
+
+To view the Kinesis webrtc from a browser of selenium driver
+
+# Block app port within network
+
+`
+sudo ufw enable
+sudo ufw deny out 8000
+
+`
